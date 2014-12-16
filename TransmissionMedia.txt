@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-12-16T08:28:41-05:00
+
+====== TransmissionMedia ======
+Created Tuesday 16 December 2014
+
+ethernet
+coax
+wireless
